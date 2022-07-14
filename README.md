@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @azxecrypto
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning Solidity
-- 📫 How to reach me on twitter @AzxeCrypto
 
 <!---
 azxecrypto/azxecrypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
